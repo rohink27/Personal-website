@@ -1,0 +1,56 @@
+.App-header {
+    position: fixed;
+    top: 0;
+    width: 100%; /* Make the header span the full width of the page */
+  
+  }
+
+  .Title{
+    margin-top:15%;
+    color: white;
+    font-weight: 1000;
+    font-size: 50px;
+
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    font-family: Roboto;
+  }
+
+  .Title:hover{
+    font-weight: 900;
+  }
+
+  .button-container{
+    margin-top: 20px;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+  }
+
+  .homepage-button{
+    width: 200px;
+    margin-right: 25px;
+    padding: 10px;
+    border-radius: 15px;
+    border: none;
+    color: #ffffff;
+    background-color: green;
+    font-weight: 700;
+    font-size: 30px;
+    font-family: Roboto;
+    
+  }
+
+  .homepage-button:hover{
+    color: white;
+    cursor: pointer;
+    background-color: rgb(49, 166, 49);
+  }
+
+
+
+
+
+  
