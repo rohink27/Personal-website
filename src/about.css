@@ -1,0 +1,28 @@
+.about-page{
+    margin-top: 100px;
+}
+
+.para{
+    font-size: 18px;
+    color: white;
+    font-style: Roboto;
+    margin-bottom: 20px;
+    line-height: 20px;
+}
+
+.page-section-container{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.profile-pic{
+    
+    
+    height: 60vh;
+    margin-bottom: 20px;
+}
+
+.para{
+    width: 50vw;
+}

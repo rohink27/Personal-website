@@ -1,0 +1,68 @@
+.resume-container{
+    
+    color: white;
+    font-family: Roboto;
+   
+}
+
+.resume-link{
+    color: white;
+    font-size: 20px;
+    margin-right: 15px;
+}
+
+.resume-header{
+ 
+    margin-top: 100px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.resume-name{
+    font-size: 30px;
+    font-weight: bold;
+    margin-right: 15px;
+}
+.resume{
+    padding: 25px;
+}
+
+.phone-number{
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 15px;
+}
+
+.resume-heading{
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.normal{
+    font-size: 16px;
+    line-height: 20px;
+}
+.inline-bold{
+    font-weight: bold;
+    
+}
+
+.split-line{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+
+}
+
+.bolded-name{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.italics{
+    font-style: italic;
+    font-size: 18px;
+}

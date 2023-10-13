@@ -49,6 +49,31 @@
     background-color: rgb(49, 166, 49);
   }
 
+  .contact-info-container{
+    position: fixed;
+    bottom: 0;
+    height: 60px;
+    background-color: rgb(85, 85, 85);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    
+  }
+
+  .one-media{
+    color: white;
+    font-family: Roboto;
+    margin-right: 5%;
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 20px;
+  }
+
+  .contact-link{
+    color: white;
+    font-family: Roboto;
+  }
+
 
 
 
