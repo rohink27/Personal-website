@@ -90,7 +90,29 @@ function Home() {
         <div class = "page-name">Blog</div>
         </div>
         <div  class="blogpage">
-        This is a blog. This page has not been written yet, will be written later as part of my BADM 261 assignment
+        <p class = "blog-para">
+        For most companies today, interviews are an important step in the selection process. The interview enables the employer to determine if an applicant's skills, experience, and personality meet the job's requirements. It also helps the employer assess whether an applicant would likely fit in with the corporate culture. Therefore, to obtain one’s desired job and to further their career interests, being comfortable with interviews and being able to answer the questions effectively is an indispensable skill.
+        </p>  
+        <p class = "blog-para">
+However, having come from a foreign country and being of an introverted disposition, talking to recruiters and interviewers is something that often makes me break out in a cold sweat. Although I have faith in my abilities, I have had a hard time knowing how to sell myself to a recruiter and convince them of my abilities.
+</p><p class = "blog-para">
+Therefore, the week in BADM 261 where the theme was “Interviewing Like a Pro” really appealed to me. I also attended the networking dinner for that week, and the opportunity to meet and talk with the recruiters in an informal setting allowed me to get an idea of a recruiter’s perspective. It helped me realize that recruiters are also humans after all, and just as I, as a student, am trying to appeal to a company, the recruiters are also trying to make their company appeal to us.
+</p>  
+        <p class = "blog-para">
+At the dinner, I was sitting at the same table as Steve Baker, and he provided us with some valuable tips regarding how to approach recruiters at career fairs and what are some good things to include in an elevator pitch. He spoke about how it is very important for us to be clear about what we are interested in and passionate about and make sure to mention it in the elevator pitch. I also understood the importance of doing research about a company before I approach them at a career fair, as many times the company may not be offering a position for what I am interested in, and by researching and ruling these companies out, I can save time at a career fair. Moreover, researching a company will provide me with more information about the company, which I can use to pinpoint why I want to work at that company, further solidifying my elevator pitch.
+</p>  
+        <p class = "blog-para">
+Another valuable tip that I learned was that I could ask for the recruiter's LinkedIn at a career fair and follow up with them about my interaction with them at the career fair. Since at career fairs recruiters must talk and deal with a large number of students, it is nearly impossible for them to remember each and every interaction they have with all the students. Therefore, getting their LinkedIn or email can be useful, as I can reach out to them expressing interest later on.
+</p>  
+        <p class = "blog-para">
+The readings for this week taught me more about the STAR method of interviewing and how to frame my responses in an interview. The Situation, Task, Action, and Result method has really helped me to better structure my interview answers. Initially, in my first few interviews, I would often get flustered and struggle with where to begin an answer and often end up giving a very roundabout answer. The STAR method has provided me with a clear structure to answer a question, and this has, in turn, made me more confident and comfortable with interviews.
+</p>
+<p class = "blog-para">
+During that week’s class, Jessie provided some interesting tips regarding talking to recruiters at career fairs. To explain his point to the class, he used an interesting analogy about treating a recruiter in the same way as a date, which sounded very apt, as just as in dating, two people are trying to woo each other and see whether they are a good match, companies are also trying to seek candidates who would be a good fit for them in the same way candidates are trying to seek companies to attract companies that would be a match for them. Jessie also told us that to stand out, it is useful to sometimes try to connect with the recruiter about a topic that is not directly related to relevant skills for the job. For example, I was able to connect with Jessie about shoes since both of us are sneakerheads. This made a lot of sense, as by personally connecting with the recruiter, we could stand out in the eyes of the recruiter.
+</p>
+<p class = "blog-para">
+In wrapping up, the "Interviewing Like a Pro" week in BADM 261 really helped me feel more at ease with interviews. From the chat with recruiters at the networking dinner to useful tips about talking to them, I got the importance of being ready, making personal connections, and talking clearly. The STAR method, especially, made answering interview questions less tricky. With these lessons, I'm better set to handle the tough but crucial task of showing what I've got to potential employers. It's a step forward with more confidence towards my career goals.
+</p>
         </div>
         </div>
       );

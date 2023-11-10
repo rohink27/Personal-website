@@ -39,7 +39,9 @@
 }
 
 .blogpage{
-    padding: 15px;
+    padding: 25px;
+    padding-left: 35px;
+    padding-right: 35px;
     font-family: Roboto, Arial;
     color: white;
     font-size: 20px;
@@ -52,4 +54,8 @@
     font-size: 18px;
     margin-left: 38vw;
     font-weight: bold;
+}
+
+.blog-para{
+    line-height: 25px;
 }
