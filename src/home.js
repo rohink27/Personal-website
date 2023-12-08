@@ -90,6 +90,33 @@ function Home() {
         <div class = "page-name">Blog</div>
         </div>
         <div  class="blogpage">
+        <h1>Blog 2</h1>
+        <p class = "blog-para">
+        The journey through BADM 261, an introductory course to technology and management, has been both enlightening and transformative. As I look back on this semester, I wish to share key takeaways that have significantly deepened my understanding of the intersection between technology and management.        </p>  
+        <p class = "blog-para">
+        Before delving into the course material, it's essential to acknowledge that, prior to this semester, my comprehension of T&M was rather rudimentary. However, the comprehensive introduction provided in the course highlighted the intricacies of T&M and what it entails.</p>
+        <p class = "blog-para">
+        The assigned readings, covering topics such as interview tips, environmental sustainability as a business opportunity, feedback dynamics, networking strategies, productivity hacks, and the realms of data and AI, were not only engrossing but also remarkably applicable to real-world scenarios. I appreciate the valuable professional etiquette and communication skills I acquired through this course, knowledge that might not have been as easily accessible elsewhere.What stood out to me was the practicality of the knowledge imparted — it wasn't confined to the theoretical realm but was grounded in the day-to-day realities of the professional world. </p>      
+         <p class = "blog-para">
+         A significant highlight was the opportunity to meet and network with industry professionals spanning diverse ages, roles, and backgrounds. Each speaker brought a wealth of experience, contributing to a rich tapestry of learning.
+</p>  
+        <p class = "blog-para">
+        While it's impossible to encapsulate every guest speaker's impact, certain topics and guests stood out to me. The session with hiring managers and recruiters, Mr. Steve Baker and Jessie Dengsavang, significantly alleviated my anxiety around interactions with recruiters. Their interview tips and tips to stand out to a recruiter were particularly beneficial.
+</p>  
+        <p class = "blog-para">
+        Another standout class was with Mr. Conrad Chu, where he shared insights into bringing a new product to market. As someone aspiring to start my own company, Mr. Chu's journey and advice were inspiring. The depth of understanding about startups and the various facets of entrepreneurship I gained from him was invaluable. His firsthand account of the challenges and triumphs associated with starting a company served as a roadmap for those of us passionate about translating ideas into viable startups.
+</p>
+<p class = "blog-para">
+The week featuring Young Alumni was particularly engaging. Connecting with recent UIUC graduates allowed for a relatable exchange of experiences, as they were in a similar position just a few years ago. I attended the coffee chat for this week and the insights shared during the coffee chat, ranging from internship strategies to beneficial courses, provided practical and relevant information. It was also particularly enjoyable to discuss informal topics with them such as favorite restaurants to eat at, activities to do on campus when free and favorite campus spots.
+</p>
+<p class = "blog-para">
+Lastly, Mr. Mark Moran's presentation on AI during the semester's culmination was enlightening. As someone with limited exposure to AI, his elucidation on the intricacies of how AI operates was particularly enlightening. Addressing fears and misconceptions, his explanation clarified that AI, at its core, relies on data and statistics rather than possessing wisdom and in simple terms jusr regurgitates information it possess. He drew the similarity between AI and a search bar and provided several examples from the past when people though AI would take over the world as evidence that AI tools are nothing new and to emphasize we should not be afraid of AI. This perspective assuaged concerns and enhanced my understanding of AI.
+</p>
+<p class = "blog-para">
+In conclusion, this semester has been a memorable journey, characterized by meaningful networking opportunities with both peers and seasoned professionals. The knowledge gained from the diverse speakers extends beyond academic realms and will undoubtedly shape my professional journey. Overall, the course has instilled a positive outlook towards T&M, and I look forward to further involvement in this program.
+</p>
+        <hr></hr>    
+        <h1>Blog 1</h1>    
         <p class = "blog-para">
         For most companies today, interviews are an important step in the selection process. The interview enables the employer to determine if an applicant's skills, experience, and personality meet the job's requirements. It also helps the employer assess whether an applicant would likely fit in with the corporate culture. Therefore, to obtain one’s desired job and to further their career interests, being comfortable with interviews and being able to answer the questions effectively is an indispensable skill.
         </p>  
